@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AstraAmari
+- 👀 I’m interested in ... Javascript
+- 🌱 I’m currently learning ... Python
+- 📫 How to reach me ... Discord: Amaris#8700, My discord server: discord.gg/ep7x4CwhNW
