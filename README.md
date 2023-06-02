@@ -8,7 +8,7 @@
 			<img src="https://discordapp.com/api/guilds/1096613440694538364/embed.png" alt="Discord server">
 		</a>
 
-- 👋 Hi, I’m @AstraAmari
+- 👋 Hi, I’m Astra
 - 👀 I’m interested in ... Javascript
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... Discord: Amaris#2004, My discord server: discord.gg/ep7x4CwhNW
