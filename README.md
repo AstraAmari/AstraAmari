@@ -8,7 +8,7 @@
 			<img src="https://discordapp.com/api/guilds/1096613440694538364/embed.png" alt="Discord server">
 		</a>
 
-- 👋 Hi, I’m Hailey
+- 👋 Hi, I’m Bailey
 - 👀 I’m interested in ... Javascript
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... Discord: cute.bailey, My discord server: discord.gg/ep7x4CwhNW
