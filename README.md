@@ -11,4 +11,4 @@
 - 👋 Hi, I’m Hailey
 - 👀 I’m interested in ... Javascript
 - 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... Discord: ha1ley.exe., My discord server: discord.gg/ep7x4CwhNW
+- 📫 How to reach me ... Discord: ha1ley.exe., My discord server: discord.gg/9fyTTQ7dJU
